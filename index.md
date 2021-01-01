@@ -1,4 +1,8 @@
-# Projects
+# App Developer Support Emails
+* **Programming Notebook**: help.programmingnotebook@gmail.com
+* **Magnomundo**: help.magnomundo@gmail.com
+
+# GitHub Projects
 
 ### [`word_seg`](https://github.com/Ryan-Rudes/mathematics-stack-exchange-datascraper)
 ### [`mathematics-stack-exchange-datascraper`](https://github.com/Ryan-Rudes/mathematics-stack-exchange-datascraper)
