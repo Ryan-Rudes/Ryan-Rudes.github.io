@@ -1,6 +1,6 @@
-# App Developer Support Emails
-* **Programming Notebook**: help.programmingnotebook@gmail.com
-* **Magnomundo**: help.magnomundo@gmail.com
+# iOS Apps
+* [**Programming Notebook PRO**](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614)
+* [**Programming Notebook LITE**](https://apps.apple.com/jm/app/programming-notebook-lite/id1519715994)
 
 # GitHub Projects
 
