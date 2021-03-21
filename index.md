@@ -1,3 +1,14 @@
+# My Online Presence
+* [GitHub](https://github.com/Ryan-Rudes)
+* [PyPI](https://pypi.org/user/ryanrudes/)
+* [Kaggle](https://www.kaggle.com/ryanrudes)
+* [Towards Data Science](https://towardsdatascience.com/search?q=ryanrudes)
+* [Medium](https://ryanrudes.medium.com/)
+* [Analytics Vidhya](https://medium.com/analytics-vidhya/search?q=ryan%20rudes)
+* [Personal Site (github.io)](Ryan-Rudes.github.io)
+* [My CV](https://drive.google.com/file/d/1OW_te8njekDXMSS0lOr1WW3_jnr1axRn/view?usp=sharing)
+* [LinkedIn](https://www.linkedin.com/in/ryan-rudes-98a650209/)
+
 # iOS Apps
 * [**Programming Notebook PRO**](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614)
 * [**Programming Notebook LITE**](https://apps.apple.com/jm/app/programming-notebook-lite/id1519715994)
