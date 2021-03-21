@@ -46,5 +46,5 @@
 ### [`tetris`](https://github.com/Ryan-Rudes/tetris)
 ### [`genetic-algorithm`](https://github.com/Ryan-Rudes/genetic-algorithm)
 
-![<img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/CV/0001.jpg">](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/CV/CV.pdf)
+![https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/CV/CV.pdf](https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/CV/0001.jpg)
 ![https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/CV/CV.pdf](https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/CV/0002.jpg)
