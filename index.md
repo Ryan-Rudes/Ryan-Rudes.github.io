@@ -1,7 +1,7 @@
 # My Online Presence
 
-* <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/github.png" alt="drawing" width="20"/> [GitHub](https://github.com/Ryan-Rudes)
-* [PyPI](https://pypi.org/user/ryanrudes/)
+* <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/github.png" alt="drawing" height="15"/> [GitHub](https://github.com/Ryan-Rudes)
+* <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/pypi.png" alt="drawing" height="15"/> [PyPI](https://pypi.org/user/ryanrudes/)
 * [Kaggle](https://www.kaggle.com/ryanrudes)
 * [Towards Data Science](https://towardsdatascience.com/search?q=ryanrudes)
 * [Medium](https://ryanrudes.medium.com/)
