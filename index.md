@@ -1,5 +1,6 @@
 # My Online Presence
-* [GitHub](https://github.com/Ryan-Rudes)
+
+* <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/github.png" alt="drawing" width="20"/> [GitHub](https://github.com/Ryan-Rudes)
 * [PyPI](https://pypi.org/user/ryanrudes/)
 * [Kaggle](https://www.kaggle.com/ryanrudes)
 * [Towards Data Science](https://towardsdatascience.com/search?q=ryanrudes)
