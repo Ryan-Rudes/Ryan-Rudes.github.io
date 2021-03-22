@@ -3,7 +3,7 @@
 * <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/github.png" alt="drawing" height="12"/> [GitHub](https://github.com/Ryan-Rudes)
 * <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/pypi.png" alt="drawing" height="12"/> [PyPI](https://pypi.org/user/ryanrudes/)
 * <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/kaggle.png" alt="drawing" height="12"/> [Kaggle](https://www.kaggle.com/ryanrudes)
-* [Towards Data Science](https://towardsdatascience.com/search?q=ryanrudes)
+* <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/towards-data-science.png" alt="drawing" height="12"/> [Towards Data Science](https://towardsdatascience.com/search?q=ryanrudes)
 * [Medium](https://ryanrudes.medium.com/)
 * [Analytics Vidhya](https://medium.com/analytics-vidhya/search?q=ryan%20rudes)
 * [Personal Site (github.io)](Ryan-Rudes.github.io)
