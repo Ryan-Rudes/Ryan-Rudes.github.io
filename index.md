@@ -1,5 +1,7 @@
+# Contact Information
 
 * Email: ryanrudes@gmail.com
+* Phone: +1 516-580-3827
 
 # My Online Presence
 
