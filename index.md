@@ -12,6 +12,7 @@
 [<img src="content/icons/analytics-vidhya.png"/>](https://medium.com/analytics-vidhya/search?q=ryan%20rudes){: .btn }
 [<img src="content/icons/linkedin.png"/>](https://www.linkedin.com/in/ryan-rudes-98a650209){: .btn }
 [<img src="content/icons/kaggle.png"/>](https://www.kaggle.com/ryanrudes){: .btn }
+[<img src="content/icons/app-store.png"/>](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614){: .btn }
 
 * [Personal Site (github.io)](Ryan-Rudes.github.io)
 * [My CV](https://drive.google.com/file/d/1OW_te8njekDXMSS0lOr1WW3_jnr1axRn/view?usp=sharing)
