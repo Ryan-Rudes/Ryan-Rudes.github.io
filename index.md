@@ -7,11 +7,11 @@
 
 [<img src="content/icons/github.png"/>](https://github.com/Ryan-Rudes){: .btn }
 [<img src="content/icons/pypi.jpeg"/>](https://pypi.org/user/ryanrudes){: .btn }
-[<img src="content/icons/kaggle.png"/>](https://www.kaggle.com/ryanrudes){: .btn }
 [<img src="content/icons/towards-data-science.png"/>](https://towardsdatascience.com/search?q=ryanrudes){: .btn }
 [<img src="content/icons/medium.png"/>](https://ryanrudes.medium.com){: .btn }
 [<img src="content/icons/analytics-vidhya.png"/>](https://medium.com/analytics-vidhya/search?q=ryan%20rudes){: .btn }
 [<img src="content/icons/linkedin.png"/>](https://www.linkedin.com/in/ryan-rudes-98a650209){: .btn }
+[<img src="content/icons/kaggle.png"/>](https://www.kaggle.com/ryanrudes){: .btn }
 
 * [Personal Site (github.io)](Ryan-Rudes.github.io)
 * [My CV](https://drive.google.com/file/d/1OW_te8njekDXMSS0lOr1WW3_jnr1axRn/view?usp=sharing)
