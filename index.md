@@ -5,7 +5,7 @@
 
 # My Online Presence
 
-[<img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/github.png" alt="drawing" height="12"/>](https://github.com/Ryan-Rudes){: .btn }
+[<img src="content/icons/github.png"/>](https://github.com/Ryan-Rudes){: .btn }
 
 * <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/github.png" alt="drawing" height="12"/> [GitHub](https://github.com/Ryan-Rudes)
 * <img src="https://raw.githubusercontent.com/Ryan-Rudes/Ryan-Rudes.github.io/main/content/icons/pypi.png" alt="drawing" height="12"/> [PyPI](https://pypi.org/user/ryanrudes/)
