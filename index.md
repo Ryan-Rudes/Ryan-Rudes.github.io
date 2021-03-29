@@ -27,6 +27,6 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.987412525869!2d-73.36056034836743!3d40.78429087922266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e82ea7dd4a1383%3A0x4c426362c444a42f!2s116%20Ryder%20Ave%2C%20Dix%20Hills%2C%20NY%2011746!5e0!3m2!1sen!2sus!4v1617043045721!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-<iframe src="content/CV/CV.pdf#page=1" width="100%" height="100%">
+<iframe src="content/CV/CV.pdf#page=1" style="min-height:100vh;width:100%">
 This browser does not support PDFs. Please download the PDF to view it: Download PDF
 </iframe>
