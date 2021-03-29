@@ -1,8 +1,3 @@
-# Contact Information
-
-* Email: ryanrudes@gmail.com
-* Phone: +1 516-580-3827
-
 # My Online Presence
 
 [<img src="content/icons/github.png"/>](https://github.com/Ryan-Rudes){: .btn }
@@ -25,5 +20,9 @@
 
 [John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn .btn-blue }
 
-## My Location
+# Contact Information
+
+* Email: ryanrudes@gmail.com
+* Phone: +1 516-580-3827
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96666.35126361994!2d-73.44248497508484!3d40.787894772743755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e8295678161497%3A0xd7e51c9db3f086ca!2sHalf%20Hollow%20Hills%20Central%20School%20District%2C%20NY!5e0!3m2!1sen!2sus!4v1617041323345!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
