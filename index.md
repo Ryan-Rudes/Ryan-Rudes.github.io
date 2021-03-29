@@ -17,8 +17,6 @@
 * [Personal Site (github.io)](Ryan-Rudes.github.io)
 * [My CV](https://drive.google.com/file/d/1OW_te8njekDXMSS0lOr1WW3_jnr1axRn/view?usp=sharing)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96666.35126361994!2d-73.44248497508484!3d40.787894772743755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e8295678161497%3A0xd7e51c9db3f086ca!2sHalf%20Hollow%20Hills%20Central%20School%20District%2C%20NY!5e0!3m2!1sen!2sus!4v1617041323345!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 # iOS Apps
 * [**Programming Notebook PRO**](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614)
 * [**Programming Notebook LITE**](https://apps.apple.com/jm/app/programming-notebook-lite/id1519715994)
@@ -26,3 +24,6 @@
 ## GitHub Projects w/Pages
 
 [John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn .btn-blue }
+
+## My Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96666.35126361994!2d-73.44248497508484!3d40.787894772743755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e8295678161497%3A0xd7e51c9db3f086ca!2sHalf%20Hollow%20Hills%20Central%20School%20District%2C%20NY!5e0!3m2!1sen!2sus!4v1617041323345!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
