@@ -21,4 +21,4 @@
                                                                                                        
 ## GitHub Projects w/Pages
 
-[John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn }
+[John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn .btn-blue }
