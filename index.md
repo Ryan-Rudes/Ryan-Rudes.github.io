@@ -21,6 +21,7 @@ title: My Stuff
 ## GitHub Projects w/Pages
 
 [John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn .btn-blue }
+[Minimal Go Explore](https://ryan-rudes.github.io/minimal_goexplore/){: .btn .btn-orange }
 
 ## Contact Information
 
