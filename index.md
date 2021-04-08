@@ -17,7 +17,8 @@ title: My Stuff
 ## iOS Apps
 * [**Programming Notebook PRO**](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614)
 * [**Programming Notebook LITE**](https://apps.apple.com/jm/app/programming-notebook-lite/id1519715994)
-                                                                                                       
+* **Timeline of the Far Future** (Application pending, awaiting review)
+* 
 ## GitHub Projects w/Pages
 
 [John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn .btn-blue }
