@@ -2,6 +2,7 @@
 layout: default
 title: CV
 nav_order: 3
+permalink: /cv/
 ---
 
 ## CV
