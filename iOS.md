@@ -2,6 +2,7 @@
 layout: default
 title: iOS Applications
 nav_order: 2
+permalink: /ios/
 ---
 
 ## iOS Apps
