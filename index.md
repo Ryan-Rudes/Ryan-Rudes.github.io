@@ -17,7 +17,8 @@ permalink: /
 [<img width="auto" height="120" src="content/icons/kaggle.png"/>          ](https://www.kaggle.com/ryanrudes                                   ){: .btn }
 [<img width="auto" height="120" src="content/icons/app-store.png"/>       ](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614){: .btn }
 
-### Stuff I Use
+# Things I Use
+{: .fs-7 }
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%23376C99.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="Swift" src="https://img.shields.io/badge/swift%20-%23EA4C33.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
@@ -41,7 +42,8 @@ permalink: /
 
 <br/><br/>
 
-### Contact Me
+# Contact Me
+{: .fs-7 }
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/ryanrudes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ryanrudes@gmail.com)
 <img align="left" alt="Discord" src="https://img.shields.io/badge/Ryan%20Rudes%237848-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
