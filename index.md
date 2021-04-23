@@ -56,8 +56,3 @@ permalink: /
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ryanrudes@gmail.com)
 [<img align="left" alt="Discord" src="https://img.shields.io/badge/Ryan%20Rudes%237848-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>]()
-
-<br/><br/>
-
-* Email: ryanrudes@gmail.com
-* Phone: +1 516-580-3827
