@@ -5,14 +5,14 @@ title: My Stuff
 
 ## My Online Presence
 
-[<img src="content/icons/github.png"/>](https://github.com/Ryan-Rudes){: .btn }
-[<img src="content/icons/pypi.jpeg"/>](https://pypi.org/user/ryanrudes){: .btn }
-[<img src="content/icons/tds.png"/>](https://towardsdatascience.com/search?q=ryanrudes){: .btn }
-[<img src="content/icons/medium.png"/>](https://ryanrudes.medium.com){: .btn }
-[<img src="content/icons/analytics-vidhya.png"/>](https://medium.com/analytics-vidhya/search?q=ryan%20rudes){: .btn }
-[<img src="content/icons/linkedin.png"/>](https://www.linkedin.com/in/ryan-rudes-98a650209){: .btn }
-[<img src="content/icons/kaggle.png"/>](https://www.kaggle.com/ryanrudes){: .btn }
-[<img src="content/icons/app-store.png"/>](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614){: .btn }
+[<img width="auto" height="120" src="content/icons/github.png"/>          ](https://github.com/Ryan-Rudes                                      ){: .btn }
+[<img width="auto" height="120" src="content/icons/pypi.jpeg"/>           ](https://pypi.org/user/ryanrudes                                    ){: .btn }
+[<img width="auto" height="120" src="content/icons/tds.png"/>             ](https://towardsdatascience.com/search?q=ryanrudes                  ){: .btn }
+[<img width="auto" height="120" src="content/icons/medium.png"/>          ](https://ryanrudes.medium.com                                       ){: .btn }
+[<img width="auto" height="120" src="content/icons/analytics-vidhya.png"/>](https://medium.com/analytics-vidhya/search?q=ryan%20rudes          ){: .btn }
+[<img width="auto" height="120" src="content/icons/linkedin.png"/>        ](https://www.linkedin.com/in/ryan-rudes-98a650209                   ){: .btn }
+[<img width="auto" height="120" src="content/icons/kaggle.png"/>          ](https://www.kaggle.com/ryanrudes                                   ){: .btn }
+[<img width="auto" height="120" src="content/icons/app-store.png"/>       ](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614){: .btn }
                                          
 ## iOS Apps
 * [**Programming Notebook PRO**](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614)
