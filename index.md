@@ -7,7 +7,7 @@ title: My Stuff
 
 [<img src="content/icons/github.png"/>](https://github.com/Ryan-Rudes){: .btn }
 [<img src="content/icons/pypi.jpeg"/>](https://pypi.org/user/ryanrudes){: .btn }
-[<img src="content/icons/towards-data-science.png"/>](https://towardsdatascience.com/search?q=ryanrudes){: .btn }
+[<img src="content/icons/tds.png"/>](https://towardsdatascience.com/search?q=ryanrudes){: .btn }
 [<img src="content/icons/medium.png"/>](https://ryanrudes.medium.com){: .btn }
 [<img src="content/icons/analytics-vidhya.png"/>](https://medium.com/analytics-vidhya/search?q=ryan%20rudes){: .btn }
 [<img src="content/icons/linkedin.png"/>](https://www.linkedin.com/in/ryan-rudes-98a650209){: .btn }
