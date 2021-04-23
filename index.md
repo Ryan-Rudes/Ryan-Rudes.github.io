@@ -1,6 +1,8 @@
 ---
 layout: default
 title: My Stuff
+nav_order: 1
+permalink: /
 ---
 
 ## My Online Presence
