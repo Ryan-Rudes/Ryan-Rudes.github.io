@@ -1,3 +1,9 @@
+---
+layout: default
+title: CV
+nav_order: 3
+---
+
 ## CV
 
 * [My CV](https://drive.google.com/file/d/1OW_te8njekDXMSS0lOr1WW3_jnr1axRn/view?usp=sharing)
