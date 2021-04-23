@@ -16,12 +16,6 @@ permalink: /
 [<img width="auto" height="120" src="content/icons/kaggle.png"/>          ](https://www.kaggle.com/ryanrudes                                   ){: .btn }
 [<img width="auto" height="120" src="content/icons/app-store.png"/>       ](https://apps.apple.com/us/app/programming-notebook-pro/id1521883614){: .btn }
 
-## GitHub Projects w/Pages
-
-[John Oliver Voice Cloning](https://ryan-rudes.github.io/john-oliver/){: .btn .btn-blue }
-[Minimal Go Explore](https://ryan-rudes.github.io/minimal_goexplore/){: .btn .btn-blue }
-[WWDC21 Swift Student Challenge](https://ryan-rudes.github.io/wwdc21/){: .btn .btn-blue }
-
 ### Stuff I Use
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%23376C99.svg?&style=for-the-badge&logo=python&logoColor=white"/>
