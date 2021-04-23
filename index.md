@@ -5,8 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
-# My Online Presence
-{: .fs-9 }
+# My Stuff
+{: .fs-7 }
 
 [<img width="auto" height="120" src="content/icons/github.png"/>          ](https://github.com/Ryan-Rudes                                      ){: .btn }
 [<img width="auto" height="120" src="content/icons/pypi.jpeg"/>           ](https://pypi.org/user/ryanrudes                                    ){: .btn }
